@@ -13,3 +13,5 @@ project ("CMakeProject1")
 
 # 包含子项目。
 add_subdirectory ("CMakeProject1_1")
+
+add_subdirectory("C1_2")
